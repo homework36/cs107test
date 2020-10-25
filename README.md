@@ -1,2 +1,4 @@
 [![Build Status](https://travis-ci.org/homework36/cs107test.svg?branch=main)](https://travis-ci.org/homework36/cs107test)
-[![Coverage Status](https://codecov.io/gh/gh/homework36/cs107test/branch/main/graph/badge.svg)](https://codecov.io/gh/gh/homework36/cs107test/branch/main/graph/badge.svg)
+[![codecov](https://codecov.io/gh/homework36/cs107test/branch/main/graph/badge.svg?token=8HLKPRMBP8)](undefined)
+
+This is a test repo for hw4.
